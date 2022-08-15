@@ -1,0 +1,32 @@
+.create-contact-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+.inp-create-name{
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    width: 35%;
+    border:none;
+    border-bottom: 1px solid gray;
+    outline-color:silver;
+}
+.inp-create-handle{
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    width: 35%;
+    border:none;
+    border-bottom: 1px solid gray;
+    outline-color:silver;
+}
+.add-contact{
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px 1px gray;
+    margin-top: 20px;
+}
+.imgcontact{
+    margin-left: 10px;
+}
